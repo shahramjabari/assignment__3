@@ -1,0 +1,23 @@
+:root {
+  /* colors */
+  --timer-color: red;
+  --background-color-main: #ffffff;
+  --background-color-question: lightblue;
+  --text-color: #fff;
+  --correct-option-background-color: #69e96e;
+  --correct-color: #222;
+  --main-quiz-background-color: #3498db;
+  --hover-option-background-color: #3c10ed;
+  --unanswered-background-color: lightgrey;
+
+  /* spacing */
+  --small-padding: 0.5rem;
+  --medium-padding: 1rem;
+  --large-padding: 2rem;
+
+  /* fontsize */
+  --main-font-size: 1rem;
+  --small-font-size: 0.8rem;
+  --medium-font-size: 1.5rem;
+  --large-font-size: 2rem;
+}
